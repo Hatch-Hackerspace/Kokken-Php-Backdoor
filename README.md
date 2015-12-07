@@ -6,7 +6,7 @@ This tool was made by Nitescu Lucian | nliplace.com in educational purposes only
 Disclaimer:
 The creator of this script known as Nitescu Lucian can not be held responsible for any kind of ilegal/legal use!
 
-Features: 
+#Features: 
 
 1) Hidden Interface
 
@@ -14,7 +14,7 @@ Features:
 
 3) Write/Read Filles on server
 
-Tutorial: 
+#Tutorial: 
 
 1) Upload kokken.php file
 
